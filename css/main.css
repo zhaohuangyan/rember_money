@@ -1,0 +1,12 @@
+body {height: 100%;width: 100%;background-color: #FFFFE0;}
+.nav-tabs li {width: 33.33333%;text-align: center;border-color: transparent;background-color: #EE9A00;}
+.nav-tabs li a {margin-bottom: 2px;font-weight: 600;color: #fff;margin: 1px;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {border-color: transparent;background-color: #EEAD0E;color: #F0F0F0}
+.remeber_mon {height: 40px;width: 50%;margin: auto;border: 1px solid #888;border-radius: 8px;line-height: 40px;font-size: 18px;}
+.tab-pane {padding: 10px 0;}
+.rember_date {margin-bottom: 15px;}
+.rember_content {display: flex;}
+.rember_content div {flex:1;border:1px solid #EE9A00;padding: 15px 0 0;}
+.rember_content div h3,.rember_content div p {font-size: 18px;line-height: 50px;margin: 0}
+.rember_content div p {font-size: 16px;}
+.bd_bottom {border-bottom: 1px solid #888}
